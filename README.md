@@ -1,5 +1,5 @@
 # WindowsCalculator
-Automation Tests for Windows Calculator With Appium and POM - Standart View
+Automation Tests for Windows Calculator With Appium and POM - Standart Functionality
 
 
 
